@@ -1,0 +1,21 @@
+{
+  "name": "algorithm",
+  "version": "0.0.0",
+  "description": "个人算法学习",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leozdgao/algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leozdgao/algorithm/issues"
+  },
+  "homepage": "https://github.com/leozdgao/algorithm#readme",
+  "dependencies": {
+    "list-diff2": "^0.1.4"
+  }
+}
